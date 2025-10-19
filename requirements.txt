@@ -1,0 +1,4 @@
+telethon==1.36.0
+pyTelegramBotAPI==4.24.0
+uvloop==0.20.0
+requests==2.32.3
